@@ -1,0 +1,13 @@
+D:\Ravivarma\Canarys.Banking\BankingApp\bin\Debug\BankingApp.pdb
+D:\Ravivarma\Canarys.Banking\BankingApp\obj\Debug\BankingApp.csprojAssemblyReference.cache
+D:\Ravivarma\Canarys.Banking\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+D:\Ravivarma\Canarys.Banking\BankingApp\obj\Debug\BankingApp.pdb
+D:\Ravivarma\Canarys.Banking\BankingApp\bin\Debug\Canarys.Banking.Entities.dll
+D:\Ravivarma\Canarys.Banking\BankingApp\bin\Debug\Canarys.Banking.Process.dll
+D:\Ravivarma\Canarys.Banking\BankingApp\bin\Debug\Canarys.Banking.Shared.dll
+D:\Ravivarma\Canarys.Banking\BankingApp\bin\Debug\Canarys.Banking.Entities.pdb
+D:\Ravivarma\Canarys.Banking\BankingApp\bin\Debug\Canarys.Banking.Process.pdb
+D:\Ravivarma\Canarys.Banking\BankingApp\bin\Debug\Canarys.Banking.Shared.pdb
+D:\Ravivarma\Canarys.Banking\BankingApp\obj\Debug\BankingApp.csproj.CopyComplete
+D:\Ravivarma\Canarys.Banking\BankingApp\bin\Debug\BankingApp.exe
+D:\Ravivarma\Canarys.Banking\BankingApp\obj\Debug\BankingApp.exe

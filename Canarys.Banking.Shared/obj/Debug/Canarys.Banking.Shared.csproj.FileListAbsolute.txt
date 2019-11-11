@@ -1,0 +1,6 @@
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.Shared\bin\Debug\Canarys.Banking.Shared.dll
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.Shared\bin\Debug\Canarys.Banking.Shared.pdb
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.Shared\obj\Debug\Canarys.Banking.Shared.csprojAssemblyReference.cache
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.Shared\obj\Debug\Canarys.Banking.Shared.csproj.CoreCompileInputs.cache
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.Shared\obj\Debug\Canarys.Banking.Shared.dll
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.Shared\obj\Debug\Canarys.Banking.Shared.pdb

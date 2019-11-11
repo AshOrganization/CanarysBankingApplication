@@ -1,0 +1,11 @@
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\bin\Debug\Canarys.Banking.DataAccess.dll
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\bin\Debug\Canarys.Banking.DataAccess.pdb
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\obj\Debug\Canarys.Banking.DataAccess.csprojAssemblyReference.cache
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\obj\Debug\Canarys.Banking.DataAccess.csproj.CoreCompileInputs.cache
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\obj\Debug\Canarys.Banking.DataAccess.dll
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\obj\Debug\Canarys.Banking.DataAccess.pdb
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\bin\Debug\Canarys.Banking.Entities.dll
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\bin\Debug\Canarys.Banking.Shared.dll
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\bin\Debug\Canarys.Banking.Entities.pdb
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\bin\Debug\Canarys.Banking.Shared.pdb
+D:\Ravivarma\Canarys.Banking\Canarys.Banking.DataAccess\obj\Debug\Canarys.Banking.DataAccess.csproj.CopyComplete
